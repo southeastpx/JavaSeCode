@@ -7,6 +7,7 @@ public class TestJavaSe {
 		System.out.println("hello github!!");
 		System.out.println("server edit!");
 		System.out.println("local edit!!");
+		System.out.println("server update!!");
 	}
 
 }
