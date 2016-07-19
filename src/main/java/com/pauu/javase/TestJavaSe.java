@@ -8,6 +8,7 @@ public class TestJavaSe {
 		System.out.println("server edit!");
 		System.out.println("local edit!!");
 		System.out.println("server update!!");
+		System.out.println("local update!!");
 	}
 
 }
